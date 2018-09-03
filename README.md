@@ -11,7 +11,7 @@ So every pixel must be internal or belong to the perimeter of the rectangle.
 Component was implmented by a **Mealy Machine**. 
 
 ### TestBench
-Here there's some testbench used to test it.
+[Here](https://github.com/bresc19/Component-Design-/tree/master/TestBench) there's some testbench used to test it.
 
 ### Synthesis
 - [x] **Pre-Synthesis**
@@ -19,3 +19,6 @@ Here there's some testbench used to test it.
 - [x] **Post-Synthesis Timing**
 - [x] **Post-Implementation Functional** (only for Clock Signal < 5 ns)
 - [ ] **Post-Implementation Timing** 
+
+
+For more info go [Here](https://github.com/bresc19/Component-Design-/blob/master/Info.pdf) Document Specification (ITA)
