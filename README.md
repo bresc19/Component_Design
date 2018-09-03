@@ -17,7 +17,7 @@ Component was implmented by a **Mealy Machine**.
 - [x] **Pre-Synthesis**
 - [x] **Post-Synthesis Functional**
 - [x] **Post-Synthesis Timing**
-- [x] **Post-Implementation Functional** (only for Clock Signal < 5 ns)
+- [x] **Post-Implementation Functional** (only for Clock Signal > 5 ns)
 - [ ] **Post-Implementation Timing** 
 
 
