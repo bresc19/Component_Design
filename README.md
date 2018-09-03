@@ -21,4 +21,4 @@ Component was implmented by a **Mealy Machine**.
 - [ ] **Post-Implementation Timing** 
 
 
-For more info go [Here](https://github.com/bresc19/Component-Design-/blob/master/Info.pdf) Document Specification (ITA)
+For more info go to  [Document Specification (ITA)](https://github.com/bresc19/Component-Design-/blob/master/Info.pdf)
